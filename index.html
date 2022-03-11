@@ -1,41 +1,31 @@
 <!DOCTYPE html>
-<!-- Powered by Wordle - https://www.powerlanguage.co.uk/wordle/ -->
+<!-- Powered by code from the original Wordle - https://www.powerlanguage.co.uk/wordle/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
-    <title>Canuckle - A daily Canadian word game</title>
+    <title>Stardle - A daily Astronomy word game</title>
     <meta name="description" content="Guess the hidden word in 6 tries. A new puzzle is available each day.">
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-51PE0HTHXT"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-51PE0HTHXT');
-    </script>
-    
+   
     <!-- FB Meta Tags -->
-    <meta property="og:url" content="https://canucklegame.github.io/canuckle">
+    <meta property="og:url" content="https://stardlegame.github.io/stardle">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Canuckle - A daily Canadian word game">
+    <meta property="og:title" content="Stardle - A daily Astronomy word game">
     <meta property="og:description" content="Guess the hidden word in 6 tries. A new puzzle is available each day.">
-    <meta property="og:image" content="https://canucklegame.github.io/canuckle/images/canuckle_og_1200x630.png">
+    <meta property="og:image" content="https://stardlegame.github.io/stardle/images/stardle_og_1200x630.png">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="theme-color" content="#ff0000">
     <link rel="manifest" href=".images/manifest.json">
-    <link href=".images/canuckle_logo_32x32.png" rel="icon shortcut" sizes="3232">
-    <link href=".images/canuckle_logo_192x192.png" rel="apple-touch-icon">
+    <link href=".images/stardle_logo_32x32.png" rel="icon shortcut" sizes="3232">
+    <link href=".images/stardle_logo_192x192.png" rel="apple-touch-icon">
 
     <style>
       /* Global Styles & Colors */
       :root {
-        --green: #FF0000; /* #6aaa64; */
-        --darkendGreen: #FF0000; /*#538d4e; */
+        --astroblue: #0b83f4; /* #6aaa64; */
+        --darkendAstroblue: #0b83f4; /* #538d4e; */
         --yellow: #c9b458;
         --darkendYellow: #b59f3b;
         --lightGray: #d8d8d8;
@@ -81,7 +71,7 @@
       }
       :root {
         --color-present: var(--yellow);
-        --color-correct: var(--green);
+        --color-correct: var(--astroblue);
         --color-absent: var(--color-tone-2);
         --tile-text-color: var(--color-tone-7);
         --key-text-color: var(--color-tone-1);
@@ -94,7 +84,7 @@
       }
       .nightmode {
         --color-present: var(--darkendYellow);
-        --color-correct: var(--darkendGreen);
+        --color-correct: var(--darkendAstroblue);
         --color-absent: var(--color-tone-4);
         --tile-text-color: var(--color-tone-1);
         --key-text-color: var(--color-tone-1);
