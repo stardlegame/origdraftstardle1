@@ -1623,117 +1623,143 @@
         "yukon", /* MAR 9 */
         "polar", /* MAR 10 */
         "bison", /* MAR 11 */
-        "tower", /* MAR 12 */
-        "bears", /* MAR 13 */
-        "leafs", /* MAR 14 */
-        "wheat", /* MAR 15 */
-        "parks", /* MAR 16 */
-        "kayak", /* MAR 17 */
-        "moose", /* MAR 18 */
-        "pride", /* MAR 19 */
-        "rocky", /* MAR 20 */
-        "fundy", /* MAR 21 */
-        "cabin", /* MAR 22 */ 
-        "beers", /* MAR 23 */ 
-        "parka", /* MAR 24 */ 
-        "rinks", /* MAR 25 */
-        "fries", /* MAR 26 */
-        "coast", /* MAR 27 */
-        "eagle", /* MAR 28 */
-        "phone", /* MAR 29 */
-        "birch", /* MAR 30 */
-        "penny", /* MAR 31 */
-        "dairy", /* APR 1 */
-        "skate", /* APR 2 */
-        "farms", /* APR 3 */
-        "river", /* APR 4 */
-        "sport", /* APR 5 */
-        "geese", /* APR 6 */
-        "curds", /* APR 7 */
-        "foxes", /* APR 8 */
-        "spiel", /* APR 9 */
-        "camps", /* APR 10 */
-        "rodeo", /* APR 11 */
-        "trade", /* APR 12 */
-        "peace", /* APR 13 */
-        "mines", /* APR 14 */
-        "shore", /* APR 15 */
-		"cedar", /* APR 16 */
-		"large", /* APR 17 */
-		"brier", /* APR 18 */
-		"tides", /* APR 19 */
-		"klick", /* APR 20 */
-		"denim", /* APR 21 */
-		"ships", /* APR 22 */
-		"poppy", /* APR 23 */
-		"court", /* APR 24 */
-		"lodge", /* APR 25 */
-		"ocean", /* APR 26 */
-		"rugby", /* APR 27 */
-		"metre", /* APR 28 */
-		"elder", /* APR 29 */
-		"space", /* APR 30 */
-		"horse", /* MAY 1 */
-		"foggy", /* MAY 2 */
-		"taxes", /* MAY 3 */
-		"train", /* MAY 4 */
-		"music", /* MAY 5 */
-		"mitts", /* MAY 6 */
-		"grain", /* MAY 7 */
-		"rouge", /* MAY 8 */
-		"tulip", /* MAY 9 */
-		"wines", /* MAY 10 */
-		"serge", /* MAY 11 */
-		"rural", /* MAY 12 */
-		"troop", /* MAY 13 */
-		"honey", /* MAY 14 */
-		"track", /* MAY 15 */
-		"sunny", /* MAY 16 */
-		"zones", /* MAY 17 */
-		"beach", /* MAY 18 */
-		"skier", /* MAY 19 */
-		"bases", /* MAY 20 */
-		"smile", /* MAY 21 */
-		"hydro", /* MAY 22 */
-		"trail", /* MAY 23 */
-		"sands", /* MAY 24 */
-		"water", /* MAY 25 */
-		"boots", /* MAY 26 */
-		"tarts", /* MAY 27 */
-		"docks", /* MAY 28 */
-		"privy", /* MAY 29 */
-		"otter", /* MAY 30 */
-		"field", /* MAY 31 */
-		"games", /* JUN 1 */
-		"sleds", /* JUN 2 */
-		"peggy", /* JUN 3 */
-		"union", /* JUN 4 */
-		"prime", /* JUN 5 */
-		"chips", /* JUN 6 */
-		"perch", /* JUN 7 */
-		"banks", /* JUN 8 */
-		"pines", /* JUN 9 */
-		"gravy", /* JUN 10 */
-		"peaks", /* JUN 11 */
-		"arena", /* JUN 12 */
-		"voter", /* JUN 13 */
-		"house", /* JUN 14 */
-		"bagel", /* JUN 15 */
-		"heron", /* JUN 16 */
-		"mogul", /* JUN 17 */
-		"sault", /* JUN 18 */
-		"unity", /* JUN 19 */
-		"royal", /* JUN 20 */
-		"pitch", /* JUN 21 */
-		"huron", /* JUN 22 */
-		"trout", /* JUN 23 */
-		"scarf", /* JUN 24 */
-		"beads", /* JUN 25 */
-		"storm", /* JUN 26 */
-		"craft", /* JUN 27 */
-		"taffy", /* JUN 28 */
-		"great", /* JUN 29 */
-		"pucks", /* JUN 30 */
+       "stars",
+"pluto",
+"skies",
+"focal",
+"mizar",
+"ariel",
+"belts",
+"lunar",
+"rigel",
+"milky",
+"deneb",
+"axial",
+"space",
+"venus",
+"avert",
+"adara",
+"lupus",
+"baily",
+"knobs",
+"indus",
+"dusty",
+"pyxis",
+"dwarf",
+"image",
+"titan",
+"darks",
+"orion",
+"pulse",
+"light",
+"hours",
+"hydra",
+"flare",
+"inner",
+"scope",
+"spins",
+"cursa",
+"sabik",
+"lepus",
+"apsis",
+"wezen",
+"novas",
+"hamal",
+"earth",
+"nunki",
+"white",
+"orbit",
+"cycle",
+"black",
+"cross",
+"month",
+"field",
+"saiph",
+"moons",
+"clear",
+"libra",
+"nodes",
+"wanes",
+"mensa",
+"rocky",
+"zozma",
+"cloud",
+"umbra",
+"adapt",
+"point",
+"round",
+"atlas",
+"storm",
+"focus",
+"dione",
+"hadar",
+"eagle",
+"spica",
+"mimas",
+"radio",
+"musca",
+"views",
+"tidal",
+"alcor",
+"shine",
+"solar",
+"minor",
+"major",
+"plage",
+"total",
+"align",
+"faint",
+"rings",
+"local",
+"force",
+"probe",
+"laser",
+"epoch",
+"optic",
+"glows",
+"flame",
+"polar",
+"norma",
+"cetus",
+"sarin",
+"photo",
+"outer",
+"waxes",
+"poles",
+"naked",
+"speed",
+"draco",
+"aries",
+"gases",
+"algol",
+"shift",
+"limbs",
+"phase",
+"ratio",
+"prism",
+"flats",
+"power",
+"years",
+"giant",
+"virgo",
+"beads",
+"segin",
+"omega",
+"disks",
+"south",
+"mount",
+"maria",
+"acrux",
+"right",
+"angle",
+"north",
+"night",
+"wasat",
+"plane",
+"comet",
+"pixel",
+"saros",
+"nadir",
 		"proud"  /* JUL 1 END OF CANUCKLE */
       ],
       Ta = [		/* DICTIONARY WORDS*/
