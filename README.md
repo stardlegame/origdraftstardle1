@@ -13,6 +13,6 @@ After each guess, the colour of the tiles will change to show how close your gue
 - Yellow: The letter is correct, but in the wrong position.
 - Grey: The letter is incorrect.
 
-The answer will be a word related to Astronom in some way, and a fun fact may be displayed after you play!
+The answer will be a word related to Astronomy in some way, and a fun fact may be displayed after you play!
 
 A new STARDLE will be available each day!
