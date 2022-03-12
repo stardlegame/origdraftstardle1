@@ -1594,7 +1594,7 @@
         "frame",
         "terry", /* Game 0 */
         "canoe", /* START OF CANUCKLE - FEB 10, 2022 */
-        "maple", /* FEB 11 */
+        "stars", /* FEB 11 */
         "inuit", /* FEB 12 */
         "plaid", /* FEB 13 */
         "igloo", /* FEB 14 */
